@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded", function () {
     alert("Welcome to the Banking System!");
 
@@ -12,3 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
             .catch(error => console.error("Error fetching balance:", error));
     }
 });
+=======
+document.addEventListener("DOMContentLoaded", function() {
+    alert("Welcome to the Banking System!");
+});
+>>>>>>> d9bbac117c9fa3eb376b9af030592607062b0788
